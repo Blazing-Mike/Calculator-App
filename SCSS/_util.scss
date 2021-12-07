@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@700&display=swap');
+@import './settings';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+
+body{
+    font-size: 15px;
+}
+
+button{
+    display: flex;align-items: center;
+    justify-content: center;
+    border: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0;
+  outline: 0;
+  padding: 12px 20px;
+  transition: all .1s linear;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: $text-color-one;
+}
+
+.switch-container{
+    .numbers{
+        word-spacing: 13px;
+    }
+    .switch-toggle {
+      background: #242729;
+      margin-right: 15px;
+      
+      
+   }
+   .switch-toggle input {
+     position: absolute;
+     opacity: 1;
+     width: 2rem;
+    
+   }
+   .switch-toggle input + label {
+     padding: 10px;
+     float:left;
+     color: #fff;
+     cursor: pointer;
+   }
+   .switch-toggle input:checked + label {
+     //background: green;
+   }
+    
+}
+
+

@@ -1,0 +1,30 @@
+$bg-one: hsl(222, 26%, 31%);
+$toggle-one: hsl(223, 31%, 20%);
+$screen-one: hsl(224, 36%, 15%);
+$key-bg-one: hsl(225, 21%, 49%);
+$key-shadow-one: hsl(224, 28%, 35%);
+$red-bg-one:  hsl(6, 63%, 50%);
+$dark-red-shadow: hsl(6, 70%, 34%);
+$grey-bg-one:hsl(30, 25%, 89%);
+$grey-shadow-one: hsl(28, 16%, 65%);
+$text-color-one: hsl(221, 14%, 31%);
+$white: hsl(0, 0, 100%);
+$bg-two: hsl(0, 0%, 90%);
+$toggle-two: hsl(0, 5%, 81%);
+$screen-two: hsl(0, 0%, 93%);
+$key-bg-two: hsl(185, 42%, 37%);
+$key-shadow-two:hsl(185, 58%, 25%);
+$orange-bg-two:hsl(25, 98%, 40%);
+$dark-orange-shadow-two: hsl(25, 99%, 27%);
+$grey-bg-two:hsl(45, 7%, 89%);
+$grey-shadow-one:hsl(35, 11%, 61%);
+$text-color-two:hsl(60, 10%, 19%);
+.heading{
+    color: $white;
+}
+.big-heading{
+    font-size: 1.4rem;
+}
+.small-heading{
+    font-size: 0.8rem;
+}
