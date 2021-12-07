@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Blazing-Mike/Calculator-App)
-- Live Site URL: [Add live site URL here](http://calulator-app.surge.sh)
+- Solution URL: [solution URL](https://github.com/Blazing-Mike/Calculator-App)
+- Live Site URL: [Live site](http://calulator-app.surge.sh)
 
 ## My process
 
