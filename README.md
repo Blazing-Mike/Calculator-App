@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Blazing-Mike/Calculator-App)
+- Live Site URL: [Add live site URL here](http://calulator-app.surge.sh)
 
 ## My process
 
@@ -84,8 +84,8 @@ function calculate(event) {
 - [Build a javscript calculator](https://www.section.io/engineering-education/building-a-calculator-a-javascript-project-for-beginners/) - This helped me to see how a demo calculator app is built, so i refrenced it when i has issues.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Blazing-Mike)
-- Twitter - [@yourusername](https://www.twitter.com/Mikeoxygen1)
+- Frontend Mentor - [@Blazing Mike](https://www.frontendmentor.io/profile/Blazing-Mike)
+- Twitter - [@Omo sathoshi](https://www.twitter.com/Mikeoxygen1)
 
 
 
